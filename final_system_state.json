@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-07-07T16:21:04.201613",
+  "current_balance": 100000,
+  "mode": "prop_challenge",
+  "performance": {
+    "total_trades": 0,
+    "winning_trades": 0,
+    "losing_trades": 0,
+    "win_rate": 0,
+    "profit_factor": 0,
+    "total_profit": 0,
+    "max_drawdown": 0,
+    "sharpe_ratio": 0,
+    "calmar_ratio": 0,
+    "manipulation_exploitation_rate": 0,
+    "neural_accuracy": 0,
+    "prop_firm_compliance_rate": 0,
+    "bank_beating_score": 0,
+    "immunity_score": 0,
+    "var_95": 0,
+    "expected_shortfall": 0,
+    "maximum_consecutive_losses": 0,
+    "recovery_time": 0
+  },
+  "active_positions": 0,
+  "signal_history_count": 0
+}

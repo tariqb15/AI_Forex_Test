@@ -1,0 +1,11 @@
+2025-07-03 21:12:54.991 | INFO     | __main__:__init__:481 - Agentic Forex Engine initialized for USDJPY
+2025-07-03 21:12:55.018 | INFO     | __main__:connect_mt5:414 - MT5 initialized successfully. Version: (500, 5142, '2 Jul 2025')
+2025-07-03 21:12:55.019 | INFO     | __main__:run_full_analysis:485 - Starting full market analysis...
+2025-07-03 21:12:55.028 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for M1
+2025-07-03 21:12:55.031 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for M5
+2025-07-03 21:12:55.033 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for M15
+2025-07-03 21:12:55.035 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for M30
+2025-07-03 21:12:55.037 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for H1
+2025-07-03 21:12:55.038 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for H4
+2025-07-03 21:12:55.041 | INFO     | __main__:get_mtf_data:442 - Collected 200 bars for D1
+2025-07-03 21:12:55.184 | INFO     | __main__:run_full_analysis:540 - Analysis complete. Generated 0 signals

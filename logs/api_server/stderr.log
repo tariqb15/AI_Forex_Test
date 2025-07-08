@@ -1,0 +1,19 @@
+INFO:     Started server process [59056]
+INFO:     Waiting for application startup.
+INFO:api:Starting BLOB AI Forex Engine API...
+2025-07-03 21:12:57.727 | INFO     | forex_engine:__init__:481 - Agentic Forex Engine initialized for <config.ForexEngineConfig object at 0x00000224D62D2BC0>
+INFO:api:API started successfully. Default API key: Oml7oS_AETgjMx04U8B5WN7hYbG6JACBCfkyjI9dTM8
+INFO:api:Save this API key securely - it won't be shown again!
+2025-07-03 21:12:57.728 | INFO     | forex_engine:run_full_analysis:485 - Starting full market analysis...
+2025-07-03 21:12:57.758 | INFO     | forex_engine:connect_mt5:414 - MT5 initialized successfully. Version: (500, 5142, '2 Jul 2025')
+2025-07-03 21:12:57.758 | WARNING  | forex_engine:get_mtf_data:444 - No data received for M1
+2025-07-03 21:12:57.759 | WARNING  | forex_engine:get_mtf_data:444 - No data received for M5
+2025-07-03 21:12:57.760 | WARNING  | forex_engine:get_mtf_data:444 - No data received for M15
+2025-07-03 21:12:57.760 | WARNING  | forex_engine:get_mtf_data:444 - No data received for M30
+2025-07-03 21:12:57.761 | WARNING  | forex_engine:get_mtf_data:444 - No data received for H1
+2025-07-03 21:12:57.761 | WARNING  | forex_engine:get_mtf_data:444 - No data received for H4
+2025-07-03 21:12:57.762 | WARNING  | forex_engine:get_mtf_data:444 - No data received for D1
+2025-07-03 21:12:57.762 | ERROR    | forex_engine:run_full_analysis:494 - Failed to collect market data
+INFO:api:Background analysis completed
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
